@@ -6,7 +6,7 @@ This project transforms a low-cost ESP32 microcontroller into a standalone web s
 
 This is a great example of a full-stack embedded application, demonstrating skills in hardware programming, network communication, and responsive web development.
 
-![Tic-Tac-Toe Screenshot](![Image](https://github.com/user-attachments/assets/d64a66b5-d9e6-4074-be2b-55942ee16a9f))
+![Tic-Tac-Toe Screenshot](https://github.com/user-attachments/assets/6bba10fd-53e2-4db1-b238-fac361b31f36)
 
 
 ---
